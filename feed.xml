@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
-  <link href="http://localhost:5000/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:5000/" rel="alternate" type="text/html" />
-  <updated>2023-04-15T23:12:14+09:00</updated>
-  <id>http://localhost:5000/</id>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2023-04-16T02:15:42+09:00</updated>
+  <id>http://localhost:4000/</id>
 
   
     <title type="html">Seunghyeon’s github.io</title>
@@ -21,11 +21,11 @@
   
     <entry>
       <title type="html">냉동 컨테이너 Bigdata/AI 기반 고장예지보전 서비스 플랫폼 개발/사업화</title>
-      <link href="http://localhost:5000/" rel="alternate" type="text/html" title="냉동 컨테이너 &lt;br&gt;Bigdata/AI 기반 고장예지보전 서비스 플랫폼 개발/사업화" />
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="냉동 컨테이너 &lt;br&gt;Bigdata/AI 기반 고장예지보전 서비스 플랫폼 개발/사업화" />
       <published>2014-07-18T00:00:00+09:00</published>
       <updated>2014-07-18T00:00:00+09:00</updated>
-      <id>http://localhost:5000/project-1</id>
-      <content type="html" xml:base="http://localhost:5000/"></content>
+      <id>http://localhost:4000/project-1</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
 
       
       
@@ -55,11 +55,11 @@
   
     <entry>
       <title type="html">스마트 거버넌스를 위한지역 혁신 모델 개발</title>
-      <link href="http://localhost:5000/" rel="alternate" type="text/html" title="스마트 거버넌스를 위한&lt;br&gt;지역 혁신 모델 개발" />
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="스마트 거버넌스를 위한&lt;br&gt;지역 혁신 모델 개발" />
       <published>2014-07-18T00:00:00+09:00</published>
       <updated>2014-07-18T00:00:00+09:00</updated>
-      <id>http://localhost:5000/project-2</id>
-      <content type="html" xml:base="http://localhost:5000/"></content>
+      <id>http://localhost:4000/project-2</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
 
       
       
@@ -89,11 +89,11 @@
   
     <entry>
       <title type="html">기계 독해와 데이터 증강 기법을활용한 다목적 차세대인공지능 챗봇 개발</title>
-      <link href="http://localhost:5000/" rel="alternate" type="text/html" title="기계 독해와 데이터 증강 기법을&lt;br&gt;활용한 다목적 차세대&lt;br&gt;인공지능 챗봇 개발" />
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="기계 독해와 데이터 증강 기법을&lt;br&gt;활용한 다목적 차세대&lt;br&gt;인공지능 챗봇 개발" />
       <published>2014-07-18T00:00:00+09:00</published>
       <updated>2014-07-18T00:00:00+09:00</updated>
-      <id>http://localhost:5000/project-3</id>
-      <content type="html" xml:base="http://localhost:5000/"></content>
+      <id>http://localhost:4000/project-3</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
 
       
       
@@ -123,11 +123,11 @@
   
     <entry>
       <title type="html">모두의 연구소 아이펠 온라인 교육 3기</title>
-      <link href="http://localhost:5000/" rel="alternate" type="text/html" title="모두의 연구소 아이펠&lt;br&gt; 온라인 교육 3기" />
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="모두의 연구소 아이펠&lt;br&gt; 온라인 교육 3기" />
       <published>2014-07-18T00:00:00+09:00</published>
       <updated>2014-07-18T00:00:00+09:00</updated>
-      <id>http://localhost:5000/project-4</id>
-      <content type="html" xml:base="http://localhost:5000/"></content>
+      <id>http://localhost:4000/project-4</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
 
       
       
